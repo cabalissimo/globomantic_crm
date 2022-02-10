@@ -7,3 +7,5 @@ out. This makes it easy to toggle between different styles for version
 control testing.
 
 # Globomantics CRM app
+
+# rEALLY DANGEROUS making changes
