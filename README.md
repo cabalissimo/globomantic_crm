@@ -9,3 +9,5 @@ control testing.
 # Globomantics CRM app
 
 # rEALLY DANGEROUS making changes
+
+> Note: version 2 will be way better man !
